@@ -1,0 +1,29 @@
+p{
+    text-align: justify;
+
+}
+
+.cen{
+  text-align: center;
+  
+}
+
+
+tab{
+  border: 2px solid black;
+   border-radius: 10px;
+   background-color: lightcyan;
+}
+
+
+#ed{
+  border: 2px solid black;
+}
+
+.bor{
+  border: 2px solid grey;
+  border-radius: 9px;
+  width: 250px;
+  height: 250px;
+  margin: 25PX;
+}
